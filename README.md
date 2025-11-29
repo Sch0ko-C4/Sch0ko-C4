@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hey, I'm Sch0ko-C4  
 
-<!--
-**Sch0ko-C4/Sch0ko-C4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer working on **ZAREX**, a modular automation hub for signals, routes, 
+observability and experimental trading workflows.
 
-Here are some ideas to get you started:
+### 🔗 ZAREX – Developer Preview  
+https://zarex.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ZAREX explores:
+
+- Modular route mechanics  
+- Signal ingestion pipelines  
+- Webhooks & event flow  
+- Multi-exchange integration (Spot / Futures)  
+- Observability dashboards  
+- Automation experiments  
+
+Everything is currently in **Developer Preview** – focused on transparency, safety, 
+clear routing mechanics and extensible bot architecture.
+
+---
+
+If you’re into automation, system design or trading-tech experiments, you’ll feel at home here.  
+Always building. Always refining. 🚀
